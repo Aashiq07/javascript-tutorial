@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .ADD{
+                background-color: yellow;
+                border:none;
+            }
+            button{
+                background-color: orange;
+            }
+        </style>
+    </head>
+    <body>
+        <button>Click</button> 
+        <button>Ash</button>
+        <p>Hello,world!</p>
+        <p>I learned the basics of JavaScript and HTML, it was fun</p>
+        <button class="ADD">Add to cart</button>
+        <button class="BUY">Buy now</button>
+        <script>
+            console.log('Welcome!');
+        </script>
+    </body>
+</html>
